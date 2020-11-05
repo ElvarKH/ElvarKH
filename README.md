@@ -14,11 +14,12 @@
 
 <br/>  
 
-
+<div align="center">
+  
 ## My Skill Set  
 <table>
   <tr>
-    <td valign="top" width="100%">
+    <td valign="top" width="50%">
 
   ### Frontend  
   <div align="center">  
@@ -29,7 +30,7 @@
   </div>
   </td>
   
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
   ### Backend  
   <div align="center">  
@@ -43,7 +44,6 @@
 <br/>  
 
 ## Connect with me  
-<div align="center">
   <a href="https://elvarkhudiev.medium.com" target="_blank">
   <img src=https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
   </a>
