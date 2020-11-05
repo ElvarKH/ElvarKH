@@ -41,6 +41,8 @@
   </td>
 </table>  
 
+</div>  
+
 <br/>  
 
 ## Connect with me  
@@ -59,7 +61,6 @@
   <a href="https://www.facebook.com/ElvarKH" target="_blank">
   <img src=https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
-</div>  
   
 <br/>  
 
