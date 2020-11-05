@@ -25,8 +25,8 @@
   <div align="center">  
     <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="60" />  
     <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="60" />  
-    <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" />  
-    <img style="margin: 10px" src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="JQuery" height="60" />  
+    <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original-wordmark.svg" alt="JavaScript" height="60" />  
+    <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="JQuery" height="60" />  
   </div>
   </td>
   
