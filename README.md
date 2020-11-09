@@ -3,7 +3,7 @@
 ### <div align="center">I'm Elvar, a full-time back-end Java developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Angular.js  
+- 🌱 I’m currently developing my Java knowledge  
   
 
 - ❓ Ask me about anything related to Java and related technologies  
