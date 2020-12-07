@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-### <div align="center">I'm Elvar, a full-time back-end Java developer 👨‍💻</div>  
+### <div align="center">I'm Elvar, Back-end Software Developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently developing my Java knowledge  
+- 🌱 I’m currently learning/developing my C# knowledge  
   
 
-- ❓ Ask me about anything related to Java and related technologies  
+- ❓ Ask me about anything related to C#, Java and related technologies  
   
 
 - ⚡️ Fun fact: no fun  
