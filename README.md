@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### <div align="center">I'm Elvar, Back-end Software Developer 👨‍💻</div>  
+### <div align="center">I'm Elvar, Java Software Developer 👨‍💻</div>  
   
 
 - 🌱 I’m currently developing my Java knowledge  
