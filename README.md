@@ -14,12 +14,12 @@
 
 <br/>  
 
-<div align="center">
+<div align="center" width="50%">
   
 ## My Skill Set  
 <table>
   <tr>
-    <td valign="top" width="75%">
+    <td valign="top" width="50%">
 
   ### Frontend  
   <div align="center">  
@@ -30,7 +30,7 @@
   </div>
   </td>
   
-<td valign="top" width="75%">
+<td valign="top" width="50%">
 
   ### Backend  
   <div align="center">  
