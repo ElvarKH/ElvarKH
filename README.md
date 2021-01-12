@@ -17,7 +17,7 @@
 <div align="center">
   
 ## My Skill Set  
-<table width="50%">
+<table width="30%">
   <tr>
     <td valign="top" width="50%">
 
