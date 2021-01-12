@@ -19,7 +19,7 @@
 ## My Skill Set  
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="20%">
 
   ### Frontend  
   <div align="center">  
@@ -30,7 +30,7 @@
   </div>
   </td>
   
-<td valign="top" width="50%">
+<td valign="top" width=20%">
 
   ### Backend  
   <div align="center">  
