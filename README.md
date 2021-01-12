@@ -23,10 +23,10 @@
 
   ### Frontend  
   <div align="center">  
-    <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="60" />  
-    <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="60" />  
-    <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" />  
-    <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="JQuery" height="60" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="60" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="60" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="JQuery" height="60" />  
   </div>
   </td>
   
@@ -34,9 +34,9 @@
 
   ### Backend  
   <div align="center">  
-    <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" height="60" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="60" />  
     <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="60" />  
-    <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="Spring" height="60" />
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="60" />
   </div>
   </td>
 </table>  
