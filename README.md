@@ -14,7 +14,7 @@
 
 <br/>  
 
-<div align="center" width="50%">
+<div align="center" style="width="50%";">
   
 ## My Skill Set  
 <table>
