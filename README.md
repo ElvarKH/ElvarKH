@@ -23,10 +23,10 @@
 
   ### Frontend  
   <div align="center">  
-    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="80" />  
-    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="80" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" height="80" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" height="80" />  
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="80" />  
-    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="JQuery" height="80" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="JQuery" height="80" />  
   </div>
   </td>
   
