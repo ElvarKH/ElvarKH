@@ -36,7 +36,7 @@
   <div align="center">  
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="80" />  
     <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="80" />  
-    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="80" />
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="80" />
   </div>
   </td>
 </table>  
