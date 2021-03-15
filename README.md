@@ -74,9 +74,9 @@
 
 
 ## Recent Blog Posts  
-- [Creational Design Patterns](https://elvarkhudiev.medium.com/creational-design-patterns-6332260814b4/)
-- [GRASP Design Principles](https://elvarkhudiev.medium.com/grasp-design-principles-377c9d7a88d6/)
-- [Design Patterns | Gang of Four (GOF) | AntiPatterns](https://elvarkhudiev.medium.com/design-patterns-gang-of-four-gof-antipatterns-22e09806077e/)
+## - [Creational Design Patterns](https://elvarkhudiev.medium.com/creational-design-patterns-6332260814b4/)
+## - [GRASP Design Principles](https://elvarkhudiev.medium.com/grasp-design-principles-377c9d7a88d6/)
+## - [Design Patterns | Gang of Four (GOF) | AntiPatterns](https://elvarkhudiev.medium.com/design-patterns-gang-of-four-gof-antipatterns-22e09806077e/)
 
 <br/>  
 
